@@ -5,3 +5,5 @@ We provide the user with a GUI based window made using Tkinter. The user is offe
 On selecting the player name, the player's career statistics are displayed in the window and the graphical analysis of his career statistics are showed.
 
 The final working code is stored in final_pp_mini_project.py file
+
+Worked on this project as part of the curriculum in Semester 2 for the course "Python Programming".
